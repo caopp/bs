@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8255E08FF2825F21470BAD3B689CEB8EA21D54C0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8255E08FF2825F21470BAD3B689CEB8EA21D54C0" : 0,
+    "3B9D3CFB87725095F3CD8DE5127731039911415A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C4E4CC70-6572-4E4C-ABC7-EF2B11442D79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8255E08FF2825F21470BAD3B689CEB8EA21D54C0" : "bschinese_qihaijun\/",
+    "3B9D3CFB87725095F3CD8DE5127731039911415A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "chinese",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ch-iphone\/chinese\/chinese.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhujohnle\/bschinese-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B9D3CFB87725095F3CD8DE5127731039911415A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/zhujohnle\/bschinese_iphoneversion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8255E08FF2825F21470BAD3B689CEB8EA21D54C0"
+    }
+  ]
+}

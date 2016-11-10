@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="paintView">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Cqf-7l-lwz" customClass="TouchMoveView">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oQO-sJ-qfc">
+                    <rect key="frame" x="100" y="100" width="400" height="400"/>
+                    <state key="normal" backgroundImage="tian"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wj5-F4-BSU">
+                    <rect key="frame" x="150" y="520" width="80" height="50"/>
+                    <state key="normal" title="撤销"/>
+                    <connections>
+                        <action selector="cancelClick:" destination="iN0-l3-epB" eventType="touchUpInside" id="BVj-a1-udO"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Htl-6M-l71">
+                    <rect key="frame" x="495" y="26" width="46" height="30"/>
+                    <state key="normal" title="关闭"/>
+                    <connections>
+                        <action selector="closeClick:" destination="iN0-l3-epB" eventType="touchUpInside" id="krL-SH-r0k"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rhc-LL-LFt">
+                    <rect key="frame" x="350" y="520" width="80" height="50"/>
+                    <state key="normal" title="重写"/>
+                    <connections>
+                        <action selector="rewriteClick:" destination="iN0-l3-epB" eventType="touchUpInside" id="tJR-Nw-cZr"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WtW-z5-hdC" customClass="MyView">
+                    <rect key="frame" x="100" y="100" width="400" height="400"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <connections>
+                <outlet property="cancelButton" destination="Wj5-F4-BSU" id="fsZ-QW-7Jd"/>
+                <outlet property="closeButton" destination="Htl-6M-l71" id="pGa-uW-ppZ"/>
+                <outlet property="rewriteButton" destination="Rhc-LL-LFt" id="2cK-Dd-3ai"/>
+                <outlet property="touchMove" destination="Cqf-7l-lwz" id="Pky-uS-dkT"/>
+                <outlet property="writeView" destination="WtW-z5-hdC" id="rG6-ec-iP4"/>
+            </connections>
+            <point key="canvasLocation" x="341" y="318"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="tian" width="196" height="196"/>
+    </resources>
+</document>

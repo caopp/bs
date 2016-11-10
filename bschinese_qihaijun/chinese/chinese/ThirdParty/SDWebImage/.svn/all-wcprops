@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mobile/!svn/ver/1856/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/MKAnnotationView+WebCache.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageDecoder.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDImageCache.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/MKAnnotationView+WebCache.m
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageDecoder.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mobile/!svn/ver/1856/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDImageCache.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageManager.h
+END
+SDWebImageManager+MJ.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/691/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageManager+MJ.h
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageDownloaderOperation.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageManager.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImageView+WebCache.h
+END
+UIImage+WebP.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImage+WebP.h
+END
+SDWebImageManager+MJ.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/691/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageManager+MJ.m
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImageView+WebCache.m
+END
+UIImage+WebP.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImage+WebP.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/NSData+ImageContentType.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageDownloader.h
+END
+UIView+WebCacheOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIView+WebCacheOperation.h
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/NSData+ImageContentType.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageDownloader.m
+END
+UIView+WebCacheOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIView+WebCacheOperation.m
+END
+UIImageView+HighlightedWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImageView+HighlightedWebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageCompat.h
+END
+UIImageView+HighlightedWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImageView+HighlightedWebCache.m
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImagePrefetcher.h
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImage+GIF.h
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImage+MultiFormat.m
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImagePrefetcher.m
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/UIImage+GIF.m
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mobile/!svn/ver/192/iOSTeam/firstTrunk/BuyerCenturySquare/BuyerCenturySquare/ThirdParty/SDWebImage/SDWebImageOperation.h
+END
